@@ -1,7 +1,3 @@
 fffff
-<<<<<<< HEAD
-for mergin
-branch merging
-=======
-for merging purpose
->>>>>>> 98e44a018d03a72bd1df9380ed947fff0fffcba5
+merge code in VS studio
+ssggggg
