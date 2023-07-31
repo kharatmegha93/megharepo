@@ -1,0 +1,20 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE suite SYSTEM "https://testng.org/testng-1.0.dtd">
+<suite name="Suite">
+  <test thread-count="5" name="TestOrange">
+    <classes>
+      <class name="testNg.LaunchBrower"/>
+      <class name="testNg.PriorityNewTest"/>
+      <class name="DemoPOM.OrangeTestCase"/>
+      <class name="testNg.AllTest"/>
+      <class name="testNg.MultipleWindows"/>
+      <class name="DemoPOM.OrangeLogin"/>
+      <class name="testNg.DemoXmlClass"/>
+      <class name="testNg.SeleniumGridTestCHORME"/>
+      <class name="DemoPageFactory.DemoPageFactory"/>
+      <class name="DemoPageFactory.LoginRediff"/>
+      <class name="testNg.FirstTest"/>
+      <class name="testNg.demoDataProvider"/>
+    </classes>
+  </test> <!-- TestOrange -->
+</suite> <!-- Suite -->
